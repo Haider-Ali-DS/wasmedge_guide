@@ -1,0 +1,2 @@
+cargo:rustc-link-search=/Users/mp-haidera-pyse-403/Desktop/analog/wasmedge_guide/target/debug/build/wasmedge_quickjs-67b7a2d7e735205c/out
+cargo:rustc-link-lib=quickjs

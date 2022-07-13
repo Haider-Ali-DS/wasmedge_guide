@@ -1,0 +1,10 @@
+/Users/mp-haidera-pyse-403/Desktop/analog/wasmedge_guide/target/wasm32-wasi/release/deps/libc-28e31915f552c49e.rmeta: /Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/lib.rs /Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/macros.rs /Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/fixed_width_ints.rs /Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/wasi.rs
+
+/Users/mp-haidera-pyse-403/Desktop/analog/wasmedge_guide/target/wasm32-wasi/release/deps/liblibc-28e31915f552c49e.rlib: /Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/lib.rs /Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/macros.rs /Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/fixed_width_ints.rs /Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/wasi.rs
+
+/Users/mp-haidera-pyse-403/Desktop/analog/wasmedge_guide/target/wasm32-wasi/release/deps/libc-28e31915f552c49e.d: /Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/lib.rs /Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/macros.rs /Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/fixed_width_ints.rs /Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/wasi.rs
+
+/Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/lib.rs:
+/Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/macros.rs:
+/Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/fixed_width_ints.rs:
+/Users/mp-haidera-pyse-403/.cargo/registry/src/github.com-1ecc6299db9ec823/libc-0.2.126/src/wasi.rs:
